@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="throneproj--throne"></div>
 
-### ThisIsDara--mhr-cfw-go
+### throneproj--Throne
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/throneproj/Throne) – [<code><small>1.1.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/re2asm/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+| `Throne-1.1.2-windows64-installer.exe` | 40.1 MB | [⬇️ Download](https://raw.githubusercontent.com/re2asm/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows64-installer.exe) |
 <!-- RELEASES_END -->
