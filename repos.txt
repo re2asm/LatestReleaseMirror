@@ -1,1 +1,1 @@
-ThisIsDara/mhr-cfw-go|windows-amd64
+throneproj/Throne|windows64-installer
